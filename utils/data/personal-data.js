@@ -14,5 +14,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/muraliram516/",
   devUsername: "muraliram516",
   hackerrank: "https://www.hackerrank.com/muraliram516",
-  resume: "https://drive.google.com/file/d/1byQmIZw4g3raU8EZl-TtPsvcCohI4Zk8/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1zf3uSIzDnmKxHoWGFk8_b2dtO3bXeBf-/view?usp=sharing",
 }
