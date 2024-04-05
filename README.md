@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here]().
 
 ---
 
@@ -27,11 +27,9 @@
 
 - HERO SECTION
 - ABOUT ME
-- EXPERIENCE
 - SKILLS
 - PROJECTS
 - EDUCATION
-- BLOG
 - CONTACTS
 
 ---
@@ -107,10 +105,7 @@ export const personalData = {
   phone: '+919524006202',
   address: 'Chennai ',
   github: 'https://github.com/muraliam516',
-  facebook: '',
   linkedIn: 'https://www.linkedin.com/in/murali-ram/',
-  twitter: '',
-  stackOverflow: '',
   leetcode: "https://leetcode.com/muraliram516/",
   devUsername: "muraliram516",
   hackerrank: "https://www.hackerrank.com/muraliram516",
