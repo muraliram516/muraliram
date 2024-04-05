@@ -62,7 +62,7 @@ function ProjectCard({ project }) {
             <span className="text-gray-400">,</span>
           </div>
           <div>
-            <span className="ml-4 lg:ml-8 mr-2 text-white">Live99999999999999999:</span>
+            <span className="ml-4 lg:ml-8 mr-2 text-white">Live:</span>
             <span className="text-orange-400"><a href={project.demo} target="_blank" style={{ textDecoration: 'underline' }} className="linkHover">{project.demo}</a></span>
             <span className="text-gray-400">,</span>
           </div>
