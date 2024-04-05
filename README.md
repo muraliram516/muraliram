@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here]('https://muraliram.vercel.app/').
+## View live preview [here](https://muraliram.vercel.app/).
 
 ---
 
