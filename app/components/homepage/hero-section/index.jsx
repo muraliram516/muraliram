@@ -7,7 +7,7 @@ import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { SiLeetcode } from "react-icons/si";
-
+import {FaHackerrank} from "react-icons/fa6";
 function HeroSection() {
   return (
     <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
@@ -52,13 +52,20 @@ function HeroSection() {
             >
               <FaFacebook size={30} />
             </Link> */}
+           <Link
+            href={personalData.hackerrank}
+            target='_blank'
+            className="transition-all text-pink-500 hover:scale-125 duration-300"
+             >
+            <FaHackerrank size={30} />
+            </Link>
             <Link
               href={personalData.leetcode}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
-              <SiLeetcode size={30} />
-            </Link>
+            <SiLeetcode size={30} />
+            </Link>            
             {/* <Link
               href={personalData.twitter}
               target='_blank'
